@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="inverse_bg">@color/dark_inverse_bg</color>
+    <color name="inverse_text">@color/dark_inverse_text</color>
+    <color name="inverse_secondary">@color/dark_inverse_secondary</color>
+    <color name="dot_inverse_off">@color/dark_dot_inverse_off</color>
+</resources>
