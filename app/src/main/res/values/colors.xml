@@ -83,4 +83,9 @@
     <color name="accent_fill">@color/red_500</color>
     <color name="accent_on">@color/gray_1000</color>
     <color name="scrim">#AD000000</color>
+
+    <color name="inverse_bg">@color/light_inverse_bg</color>
+    <color name="inverse_text">@color/light_inverse_text</color>
+    <color name="inverse_secondary">@color/light_inverse_secondary</color>
+    <color name="dot_inverse_off">@color/light_dot_inverse_off</color>
 </resources>
