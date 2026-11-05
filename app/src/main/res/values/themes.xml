@@ -2,15 +2,25 @@
     <!-- Base application theme. -->
     <style name="Theme.NOSQuran" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimary">@color/light_inverse_bg</item>
+        <item name="colorPrimaryVariant">@color/light_surface_3</item>
+        <item name="colorOnPrimary">@color/light_inverse_text</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_700</item>
-        <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
+        <item name="colorSecondary">@color/accent_fill</item>
+        <item name="colorSecondaryVariant">@color/accent_fill</item>
+        <item name="colorOnSecondary">@color/accent_on</item>
+        <!-- Surfaces. -->
+        <item name="android:colorBackground">@color/light_bg_base</item>
+        <item name="android:windowBackground">@color/light_bg_base</item>
+        <item name="colorSurface">@color/light_surface_1</item>
+        <item name="colorOnSurface">@color/light_text_primary</item>
+        <item name="colorOnBackground">@color/light_text_primary</item>
+        <item name="colorError">@color/light_accent_text</item>
+        <!-- Edge-to-edge system bars. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+        <item name="android:enforceNavigationBarContrast" tools:targetApi="29">false</item>
     </style>
 </resources>
