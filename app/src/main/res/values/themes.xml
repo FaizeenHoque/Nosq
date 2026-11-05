@@ -1,6 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.NOSQuran" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textColorTertiary">@color/light_text_tertiary</item>
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/light_inverse_bg</item>
         <item name="colorPrimaryVariant">@color/light_surface_3</item>
