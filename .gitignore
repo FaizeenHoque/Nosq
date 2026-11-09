@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Local publishing pack and private signing material
+/For Publishing/
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Generated module outputs and local device profiling captures
+**/build/
+/docs/performance/

@@ -1,0 +1,15 @@
+RECITER CATALOG SOURCES
+
+EveryAyah published recitation catalog:
+https://everyayah.com/data/recitations.js
+Bundled snapshot retrieved 2026-11-10: all 79 published entries, including separately labeled spoken translations. Names, paths and bitrates are supplied by the provider. Recording variants and quality levels remain distinct. Coverage is not stated per recording in this catalog; file availability is checked by playback/download requests.
+
+MP3Quran public v3 catalogs:
+https://mp3quran.net/api/v3/reciters?language=eng
+https://mp3quran.net/api/v3/reciters?language=ar
+Bundled snapshots retrieved 2026-11-10: 244 reciters and 299 recording editions. English and Arabic names are joined only by provider reciter ID. Editions are keyed by provider recording ID, preserving riwayat, variants and their explicit Surah coverage. The API does not supply verse timings or bitrate, so no verse-level control or bitrate is claimed for these recordings.
+
+Metadata is refreshed at most daily unless requested manually, and cached in app-private storage. Failed refreshes retain the bundled or last successful provider catalog. MP3 audio is streamed or downloaded by request; no audio is bundled in the application. Provider and recording availability may change.
+
+Quran Foundation API documentation was investigated, but its current authenticated content API requires client credentials. It is not integrated, and no credentials or substitute catalog are fabricated.
+https://api-docs.quran.com/docs/content_apis_versioned/4.0.0/list-surah-recitation/

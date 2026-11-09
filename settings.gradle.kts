@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "NOS Quran"
 include(":app")
+
+include(":benchmark")

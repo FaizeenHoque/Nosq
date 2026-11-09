@@ -1,0 +1,30 @@
+QURAN TEXT
+Uthmani text, Hafs / Kufan numbering. 114 Surahs and 6,236 ayahs. The Arabic asset has been compared with the quran-uthmani edition from Al Quran Cloud. Introductory Bismillah is displayed separately for Surahs 2–114, except Surah 9; it remains the first numbered ayah in Al-Fatihah.
+https://alquran.cloud/api
+
+Tanzil Quran Text
+Copyright (C) 2007-2021 Tanzil Project
+License: Creative Commons Attribution 3.0
+https://tanzil.net
+
+This copy of the Quran text is carefully produced, highly verified and continuously monitored by a group of specialists in Tanzil Project.
+
+TERMS OF USE:
+- Permission is granted to copy and distribute verbatim copies of this text, but CHANGING IT IS NOT ALLOWED.
+- This Quran text can be used in any website or application, provided that its source (Tanzil Project) is clearly indicated, and a link is made to tanzil.net to enable users to keep track of changes.
+- This copyright notice shall be included in all verbatim copies of the text, and shall be reproduced appropriately in all files derived from or containing substantial portion of this text.
+Please check updates at: http://tanzil.net/updates/
+
+TRANSLATIONS
+English: Saheeh International, en.sahih edition.
+Bengali: Muhiuddin Khan, bn.bengali edition.
+English transliteration: en.transliteration edition.
+Bundled editions are available from Al Quran Cloud / Tanzil. Translation distribution terms are non-commercial; obtain translator or publisher permission before commercial release. No ownership of these translations is claimed.
+https://tanzil.net/trans/
+
+RECITATION
+EveryAyah.com, streamed or downloaded on request. Mishary Rashid Alafasy, Abdul Basit (Murattal), Mahmoud Khalil Al-Husary. Audio is not included in the APK. Confirm redistribution terms before distributing audio separately.
+https://everyayah.com
+
+TAFSIR
+No Tafsir text is bundled or generated. The app links to published Ibn Kathir commentary at Quran.com in an external browser. This is an explicit integration boundary pending a verified licensed offline edition.
